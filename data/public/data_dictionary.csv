@@ -1,0 +1,13 @@
+variable,type,definition
+record_id,string,Stable identifier inherited from the RepOD source deposit.
+auction_date,date,Published auction date.
+year,integer,Calendar year of sale.
+artist,string,Artist name as standardised from the source record.
+technique,categorical,"Harmonised family: Calcografia, Litografia, Serigrafia, Digital, Relieve or Fotomecanica."
+price_eur,numeric,"Published nominal hammer price in euros, excluding buyer fees."
+real_price_2025,numeric,Price converted to constant 2025 euros using annual Spanish all-items HICP.
+documented,binary,One when the catalogue records signature or edition information; zero means not documented.
+area_cm2,numeric,Product of the first plausible width and height stated in centimetres.
+creation_year_comparable,numeric,"Plausible stated execution year, 1400-2026."
+signed_documented,binary,One only when the source text positively records a signature.
+edition_documented,binary,One only when an edition field or statement is present.

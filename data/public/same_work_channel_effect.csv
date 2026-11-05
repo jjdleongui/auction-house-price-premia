@@ -1,0 +1,2 @@
+broad_matched_pairs,broad_works,broad_percent_effect,broad_ci95_low_percent,broad_ci95_high_percent,broad_p_value,matched_pairs,works,log_effect,standard_error,percent_effect,ci95_low_percent,ci95_high_percent,p_value
+34,27,103.28898729,46.15284406,182.76160221,0.00002509,12,10,0.53459798,0.19837415,70.67619493,15.69552632,151.78470113,0.00704103

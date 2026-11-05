@@ -1,0 +1,41 @@
+{
+  "master_path": "auction-data/data/normalized/spanish_historical_lots.csv",
+  "master_sha256": "97e4caf6ba720ba56e4bf686ffd73b26131f96704a7490882de4fa70535e0878",
+  "master_rows": 250166,
+  "derived_path": "auction-data/data/derived/spanish_prints_for_paper.csv",
+  "included_rows": 22558,
+  "excluded_rows": 232322,
+  "master_inclusion_share_percent": 7.1329,
+  "supplementary_auctionet_source": "auction-data/data/normalized/auctionet_spain_prints.csv",
+  "supplementary_auctionet_rows": 4714,
+  "supplementary_auctionet_excluded_rows": 0,
+  "inclusion_basis": {
+    "explicit_technique": 18664,
+    "auction_house_graphic_art_category": 3894
+  },
+  "houses": {
+    "Alcalá Subastas": 1954,
+    "Durán Arte y Subastas": 13671,
+    "Subastas Segre": 2219,
+    "Balclis (Auctionet)": 3099,
+    "Barcelona Auctions (Auctionet)": 1340,
+    "Arce Auctions (Auctionet)": 275
+  },
+  "techniques": {
+    "Serigrafía": 4898,
+    "Calcografía": 6005,
+    "Litografía": 6165,
+    "Digital (giclée/inkjet)": 378,
+    "Grabado/estampa sin técnica especificada": 589,
+    "Grabado en relieve": 307,
+    "Fotomecánica": 274,
+    "Monotipo": 48,
+    "Otra/no especificada": 3894
+  },
+  "rules": {
+    "include": "Explicit printmaking process, or the auction house's OBRA GRÁFICA category.",
+    "exclude": "Books/manuscripts, purely photographic records, generic uses of grabado/estampa, and uneditioned offset outside OBRA GRÁFICA.",
+    "digital_definition": "Giclée, inkjet, impresión digital or chorro de tinta explicitly stated in the catalogue text.",
+    "scope_rule": "The three-house master represents offered archives; Spanish Auctionet houses are appended as a sold-results-only price archive and never used as an offered-lot denominator."
+  }
+}

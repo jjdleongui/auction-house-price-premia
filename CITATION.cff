@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite this repository and the associated article."
+title: "Auction-House Price Premia in a Digitally Connected Art Market: Data and Code"
+type: dataset
+authors:
+  - family-names: "de León"
+    given-names: "José Juan"
+  - family-names: "Cuervo Pando"
+    given-names: "Alfredo"
+  - family-names: "Castillo Moriano"
+    given-names: "Carmen"
+repository-code: "https://github.com/jjdleongui/auction-house-price-premia"
+date-released: 2026-11-05
+keywords:
+  - cultural economics
+  - art auctions
+  - prints and multiples
+  - price dispersion
+  - reproducible research

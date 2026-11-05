@@ -1,0 +1,49 @@
+{
+  "source": "data/derived/spanish_prints_for_paper.csv",
+  "output": "data/derived/spanish_prints_classified.csv",
+  "rows": 22558,
+  "classification_protocol_version": "graphic-art-classification-v1",
+  "classification_counts": {
+    "Serigrafía": 4935,
+    "Calcografía": 6797,
+    "Litografía": 6196,
+    "Digital (giclée/inkjet)": 438,
+    "Grabado/estampa sin técnica especificada": 1420,
+    "Grabado en relieve": 409,
+    "Fotomecánica": 344,
+    "Monotipo": 48,
+    "Equipo/material fotográfico": 29,
+    "Fotografía": 642,
+    "Dibujo/obra única sobre papel": 75,
+    "Collage/técnica mixta": 88,
+    "Objeto/otro no gráfico": 133,
+    "Pintura/obra única": 16,
+    "Libro/carpeta/documentación": 100,
+    "Cartel/impresión comercial": 364,
+    "Reproducción/facsímil": 349,
+    "Otra/no especificada": 64,
+    "Gofrado/relieve sin tinta": 45,
+    "Estarcido/pochoir": 63,
+    "Mixografía/estampación mixta": 1,
+    "Collagraph/colografía": 2
+  },
+  "method_counts": {
+    "catalogue_rule_existing": 18664,
+    "deterministic_rule": 3626,
+    "curated_rule_override": 268
+  },
+  "applicability_counts": {
+    "1": 20698,
+    "0": 1796,
+    "indeterminate": 64
+  },
+  "newly_classified_rows": 3830,
+  "manual_override_file": "data/derived/manual_classification_overrides.csv",
+  "curated_override_rows": 268,
+  "curated_but_indeterminate_unique_texts": 53,
+  "curated_unique_texts": 247,
+  "unresolved_rows": 64,
+  "unresolved_unique_texts": 53,
+  "review_queue": "data/restricted/classification_review_queue.csv",
+  "protocol": "docs/classification-protocol-es.md"
+}

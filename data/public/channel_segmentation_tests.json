@@ -1,0 +1,46 @@
+{
+  "scope": {
+    "observations": 12364,
+    "artist_technique_cells": 263,
+    "channels": 6,
+    "claim_tested": "Auction-house hammer prices differ from Catawiki prices after observed controls",
+    "claim_not_tested": "Causal interpretation; see run_channel_premium_tests.py for sensitivity bounds"
+  },
+  "joint_channel_wald_test": {
+    "null_hypothesis": "All five Spanish-house coefficients equal zero",
+    "chi_square": 174.61909685094753,
+    "degrees_of_freedom": 5,
+    "p_value": 7.539473222515948e-36,
+    "cluster_unit": "artist-technique cell"
+  },
+  "pooled_spanish_channel": {
+    "log_coefficient": 0.677600662348925,
+    "cluster_robust_standard_error": 0.07246747937909064,
+    "percent_difference": 96.91474101581147,
+    "p_value": 8.73084081356474e-21,
+    "partial_r_squared": 0.021373268417075954
+  },
+  "all_house_channels": {
+    "partial_r_squared": 0.029785017831213192,
+    "house_coefficients_tested": [
+      "Alcalá Subastas",
+      "Balclis (Auctionet)",
+      "Barcelona Auctions (Auctionet)",
+      "Durán Arte y Subastas",
+      "Subastas Segre"
+    ]
+  },
+  "stratified_permutation_test": {
+    "test": "Stratified permutation test of pooled channel coefficient",
+    "null_hypothesis": "No pooled Spanish-channel association conditional on observed controls",
+    "observed_log_coefficient": 0.6776006623489153,
+    "observed_percent_difference": 96.91474101580955,
+    "permutations": 5000,
+    "seed": 20261022,
+    "two_sided_p_value": 0.0001999600079984003,
+    "permutation_mean": 0.10609983362867051,
+    "permutation_sd": 0.03545539134105496,
+    "strata": "artist-technique cell x calendar year",
+    "interpretation": "Descriptive falsification test; not a causal randomisation test"
+  }
+}

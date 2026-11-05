@@ -1,0 +1,8 @@
+period,hicp_index_2025_100,unit,geo,coicop18,source_dataset,source_url,source_updated,retrieved_at
+2026-01,100.53,"Index, 2025=100",ES,TOTAL,PRC_HICP_MINR,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr,2026-07-31,2026-08-02
+2026-02,100.96,"Index, 2025=100",ES,TOTAL,PRC_HICP_MINR,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr,2026-07-31,2026-08-02
+2026-03,102.64,"Index, 2025=100",ES,TOTAL,PRC_HICP_MINR,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr,2026-07-31,2026-08-02
+2026-04,103.36,"Index, 2025=100",ES,TOTAL,PRC_HICP_MINR,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr,2026-07-31,2026-08-02
+2026-05,103.45,"Index, 2025=100",ES,TOTAL,PRC_HICP_MINR,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr,2026-07-31,2026-08-02
+2026-06,104.08,"Index, 2025=100",ES,TOTAL,PRC_HICP_MINR,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr,2026-07-31,2026-08-02
+2026-07,104.00,"Index, 2025=100",ES,TOTAL,PRC_HICP_MINR,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr,2026-07-31,2026-08-02

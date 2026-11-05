@@ -1,0 +1,23 @@
+classification,paper_2_status,records
+Cartel/impresión comercial,excluded,364
+Collage/técnica mixta,excluded,88
+Dibujo/obra única sobre papel,excluded,75
+Equipo/material fotográfico,excluded,29
+Fotografía,excluded,642
+Libro/carpeta/documentación,excluded,100
+Objeto/otro no gráfico,excluded,133
+Pintura/obra única,excluded,16
+Reproducción/facsímil,excluded,349
+Calcografía,included,6797
+Collagraph/colografía,included,2
+Digital (giclée/inkjet),included,438
+Estarcido/pochoir,included,63
+Fotomecánica,included,344
+Gofrado/relieve sin tinta,included,45
+Grabado en relieve,included,409
+Grabado/estampa sin técnica especificada,included,1420
+Litografía,included,6196
+Mixografía/estampación mixta,included,1
+Monotipo,included,48
+Serigrafía,included,4935
+Otra/no especificada,indeterminate,64

@@ -1,0 +1,14 @@
+{
+  "pairs": 12,
+  "works": 10,
+  "positive_pairs": 10,
+  "mean_log_difference": 0.5345979791666666,
+  "percent_difference": 70.67619504500317,
+  "sign_test_p": 0.03857421875,
+  "wilcoxon_exact_p": 0.01220703125,
+  "work_level_sign_flip_p": 0.005859375,
+  "leave_one_work_out_percent_range": [
+    51.19802198402842,
+    77.17215836465778
+  ]
+}

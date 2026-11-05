@@ -1,0 +1,241 @@
+synthetic_record_id,channel,year,artist_technique_cell,technique,documented,area_cm2,real_price_2025
+syn_0001,Catawiki,2020,synthetic_artist_01|Lithography,Lithography,0,1273.4996,120.1525
+syn_0002,House A,2021,synthetic_artist_02|Intaglio,Intaglio,1,1100.989,217.6353
+syn_0003,House B,2022,synthetic_artist_03|Screenprint,Screenprint,1,1613.1749,265.3784
+syn_0004,Catawiki,2023,synthetic_artist_04|Relief,Relief,0,2298.4209,146.8452
+syn_0005,House A,2020,synthetic_artist_05|Lithography,Lithography,1,1628.3567,488.5339
+syn_0006,House B,2021,synthetic_artist_06|Intaglio,Intaglio,1,1098.3946,230.9025
+syn_0007,Catawiki,2022,synthetic_artist_07|Screenprint,Screenprint,0,1161.8968,243.2081
+syn_0008,House A,2023,synthetic_artist_08|Relief,Relief,1,2157.7012,566.64
+syn_0009,House B,2020,synthetic_artist_09|Lithography,Lithography,1,1628.6121,442.8996
+syn_0010,Catawiki,2021,synthetic_artist_10|Intaglio,Intaglio,0,2595.7427,398.6979
+syn_0011,House A,2022,synthetic_artist_11|Screenprint,Screenprint,1,1342.8216,2474.2645
+syn_0012,House B,2023,synthetic_artist_12|Relief,Relief,1,1561.517,1119.6141
+syn_0013,Catawiki,2020,synthetic_artist_13|Lithography,Lithography,0,1005.9494,367.0444
+syn_0014,House A,2021,synthetic_artist_14|Intaglio,Intaglio,1,2419.2294,1225.3652
+syn_0015,House B,2022,synthetic_artist_15|Screenprint,Screenprint,1,2320.0507,789.0944
+syn_0016,Catawiki,2023,synthetic_artist_16|Relief,Relief,0,1249.8018,1483.8684
+syn_0017,House A,2020,synthetic_artist_17|Lithography,Lithography,1,582.7858,1962.9984
+syn_0018,House B,2021,synthetic_artist_18|Intaglio,Intaglio,1,580.4952,1237.7728
+syn_0019,Catawiki,2022,synthetic_artist_19|Screenprint,Screenprint,0,1205.4047,990.521
+syn_0020,House A,2023,synthetic_artist_20|Relief,Relief,1,2036.9092,2602.2893
+syn_0021,House B,2020,synthetic_artist_01|Lithography,Lithography,1,857.546,191.9613
+syn_0022,Catawiki,2021,synthetic_artist_02|Intaglio,Intaglio,0,1451.8698,79.9527
+syn_0023,House A,2022,synthetic_artist_03|Screenprint,Screenprint,1,1681.9023,204.9317
+syn_0024,House B,2023,synthetic_artist_04|Relief,Relief,1,1619.3078,509.3853
+syn_0025,Catawiki,2020,synthetic_artist_05|Lithography,Lithography,0,751.267,151.1461
+syn_0026,House A,2021,synthetic_artist_06|Intaglio,Intaglio,1,1044.4831,766.916
+syn_0027,House B,2022,synthetic_artist_07|Screenprint,Screenprint,1,1779.829,357.0277
+syn_0028,Catawiki,2023,synthetic_artist_08|Relief,Relief,0,695.897,457.7606
+syn_0029,House A,2020,synthetic_artist_09|Lithography,Lithography,1,1175.9154,347.531
+syn_0030,House B,2021,synthetic_artist_10|Intaglio,Intaglio,1,2821.402,308.9489
+syn_0031,Catawiki,2022,synthetic_artist_11|Screenprint,Screenprint,0,760.5752,632.17
+syn_0032,House A,2023,synthetic_artist_12|Relief,Relief,1,1226.1696,865.924
+syn_0033,House B,2020,synthetic_artist_13|Lithography,Lithography,1,3068.4654,987.6847
+syn_0034,Catawiki,2021,synthetic_artist_14|Intaglio,Intaglio,0,1004.9988,425.784
+syn_0035,House A,2022,synthetic_artist_15|Screenprint,Screenprint,1,1170.0518,1638.5188
+syn_0036,House B,2023,synthetic_artist_16|Relief,Relief,1,794.1029,1308.7815
+syn_0037,Catawiki,2020,synthetic_artist_17|Lithography,Lithography,0,682.4714,1126.7703
+syn_0038,House A,2021,synthetic_artist_18|Intaglio,Intaglio,1,921.6277,695.7663
+syn_0039,House B,2022,synthetic_artist_19|Screenprint,Screenprint,1,782.425,1699.8015
+syn_0040,Catawiki,2023,synthetic_artist_20|Relief,Relief,0,1470.5836,1600.8402
+syn_0041,House A,2020,synthetic_artist_01|Lithography,Lithography,1,947.6648,237.7503
+syn_0042,House B,2021,synthetic_artist_02|Intaglio,Intaglio,1,799.6387,136.2994
+syn_0043,Catawiki,2022,synthetic_artist_03|Screenprint,Screenprint,0,781.5156,126.6977
+syn_0044,House A,2023,synthetic_artist_04|Relief,Relief,1,1720.8969,295.7024
+syn_0045,House B,2020,synthetic_artist_05|Lithography,Lithography,1,976.8956,292.9007
+syn_0046,Catawiki,2021,synthetic_artist_06|Intaglio,Intaglio,0,2472.177,252.7751
+syn_0047,House A,2022,synthetic_artist_07|Screenprint,Screenprint,1,2273.0531,734.554
+syn_0048,House B,2023,synthetic_artist_08|Relief,Relief,1,3368.9363,410.2137
+syn_0049,Catawiki,2020,synthetic_artist_09|Lithography,Lithography,0,1206.3919,401.4289
+syn_0050,House A,2021,synthetic_artist_10|Intaglio,Intaglio,1,1581.1804,637.3849
+syn_0051,House B,2022,synthetic_artist_11|Screenprint,Screenprint,1,1041.4743,456.9511
+syn_0052,Catawiki,2023,synthetic_artist_12|Relief,Relief,0,2444.197,467.9446
+syn_0053,House A,2020,synthetic_artist_13|Lithography,Lithography,1,855.2586,743.6985
+syn_0054,House B,2021,synthetic_artist_14|Intaglio,Intaglio,1,1995.1785,1137.3143
+syn_0055,Catawiki,2022,synthetic_artist_15|Screenprint,Screenprint,0,1800.906,904.9855
+syn_0056,House A,2023,synthetic_artist_16|Relief,Relief,1,1318.1586,1214.4436
+syn_0057,House B,2020,synthetic_artist_17|Lithography,Lithography,1,753.2867,833.6201
+syn_0058,Catawiki,2021,synthetic_artist_18|Intaglio,Intaglio,0,1046.2945,1892.1241
+syn_0059,House A,2022,synthetic_artist_19|Screenprint,Screenprint,1,2425.0559,1137.6123
+syn_0060,House B,2023,synthetic_artist_20|Relief,Relief,1,1497.9088,1266.922
+syn_0061,Catawiki,2020,synthetic_artist_01|Lithography,Lithography,0,787.5693,165.3846
+syn_0062,House A,2021,synthetic_artist_02|Intaglio,Intaglio,1,1873.4632,132.5911
+syn_0063,House B,2022,synthetic_artist_03|Screenprint,Screenprint,1,1463.5217,156.8424
+syn_0064,Catawiki,2023,synthetic_artist_04|Relief,Relief,0,2108.7896,168.9287
+syn_0065,House A,2020,synthetic_artist_05|Lithography,Lithography,1,570.0342,538.688
+syn_0066,House B,2021,synthetic_artist_06|Intaglio,Intaglio,1,2108.7294,395.0202
+syn_0067,Catawiki,2022,synthetic_artist_07|Screenprint,Screenprint,0,2194.4657,277.7621
+syn_0068,House A,2023,synthetic_artist_08|Relief,Relief,1,1592.1909,470.366
+syn_0069,House B,2020,synthetic_artist_09|Lithography,Lithography,1,1130.5487,453.1259
+syn_0070,Catawiki,2021,synthetic_artist_10|Intaglio,Intaglio,0,1217.6451,402.92
+syn_0071,House A,2022,synthetic_artist_11|Screenprint,Screenprint,1,1129.7256,756.0603
+syn_0072,House B,2023,synthetic_artist_12|Relief,Relief,1,1047.5099,1061.7626
+syn_0073,Catawiki,2020,synthetic_artist_13|Lithography,Lithography,0,773.4735,292.0118
+syn_0074,House A,2021,synthetic_artist_14|Intaglio,Intaglio,1,2174.9866,679.0954
+syn_0075,House B,2022,synthetic_artist_15|Screenprint,Screenprint,1,982.6158,966.9533
+syn_0076,Catawiki,2023,synthetic_artist_16|Relief,Relief,0,1342.8859,1404.2595
+syn_0077,House A,2020,synthetic_artist_17|Lithography,Lithography,1,642.3598,1403.4402
+syn_0078,House B,2021,synthetic_artist_18|Intaglio,Intaglio,1,2247.6707,907.969
+syn_0079,Catawiki,2022,synthetic_artist_19|Screenprint,Screenprint,0,1208.3231,1243.3219
+syn_0080,House A,2023,synthetic_artist_20|Relief,Relief,1,1018.1023,1906.433
+syn_0081,House B,2020,synthetic_artist_01|Lithography,Lithography,1,1138.5364,63.8222
+syn_0082,Catawiki,2021,synthetic_artist_02|Intaglio,Intaglio,0,2289.5507,138.2447
+syn_0083,House A,2022,synthetic_artist_03|Screenprint,Screenprint,1,1071.9388,245.2536
+syn_0084,House B,2023,synthetic_artist_04|Relief,Relief,1,518.4145,358.887
+syn_0085,Catawiki,2020,synthetic_artist_05|Lithography,Lithography,0,1154.6419,207.4536
+syn_0086,House A,2021,synthetic_artist_06|Intaglio,Intaglio,1,738.4643,265.8417
+syn_0087,House B,2022,synthetic_artist_07|Screenprint,Screenprint,1,1135.9871,435.9438
+syn_0088,Catawiki,2023,synthetic_artist_08|Relief,Relief,0,1302.5415,242.857
+syn_0089,House A,2020,synthetic_artist_09|Lithography,Lithography,1,3281.4121,396.6814
+syn_0090,House B,2021,synthetic_artist_10|Intaglio,Intaglio,1,1990.2111,269.5607
+syn_0091,Catawiki,2022,synthetic_artist_11|Screenprint,Screenprint,0,829.4421,747.4166
+syn_0092,House A,2023,synthetic_artist_12|Relief,Relief,1,1564.0409,944.3581
+syn_0093,House B,2020,synthetic_artist_13|Lithography,Lithography,1,1110.8363,558.6325
+syn_0094,Catawiki,2021,synthetic_artist_14|Intaglio,Intaglio,0,1468.275,445.8908
+syn_0095,House A,2022,synthetic_artist_15|Screenprint,Screenprint,1,1625.0176,1224.9215
+syn_0096,House B,2023,synthetic_artist_16|Relief,Relief,1,1554.538,850.9678
+syn_0097,Catawiki,2020,synthetic_artist_17|Lithography,Lithography,0,2535.0427,1305.6644
+syn_0098,House A,2021,synthetic_artist_18|Intaglio,Intaglio,1,837.9622,2070.9472
+syn_0099,House B,2022,synthetic_artist_19|Screenprint,Screenprint,1,1679.907,2952.6773
+syn_0100,Catawiki,2023,synthetic_artist_20|Relief,Relief,0,1649.8355,1977.3901
+syn_0101,House A,2020,synthetic_artist_01|Lithography,Lithography,1,1276.3907,203.4356
+syn_0102,House B,2021,synthetic_artist_02|Intaglio,Intaglio,1,750.407,115.4888
+syn_0103,Catawiki,2022,synthetic_artist_03|Screenprint,Screenprint,0,1338.5156,187.1699
+syn_0104,House A,2023,synthetic_artist_04|Relief,Relief,1,3192.1726,219.4513
+syn_0105,House B,2020,synthetic_artist_05|Lithography,Lithography,1,1633.5489,178.6911
+syn_0106,Catawiki,2021,synthetic_artist_06|Intaglio,Intaglio,0,1396.1263,302.7674
+syn_0107,House A,2022,synthetic_artist_07|Screenprint,Screenprint,1,964.1313,383.6029
+syn_0108,House B,2023,synthetic_artist_08|Relief,Relief,1,2093.3098,513.5585
+syn_0109,Catawiki,2020,synthetic_artist_09|Lithography,Lithography,0,1500.6665,372.7126
+syn_0110,House A,2021,synthetic_artist_10|Intaglio,Intaglio,1,1646.0515,580.7347
+syn_0111,House B,2022,synthetic_artist_11|Screenprint,Screenprint,1,4029.6193,786.1014
+syn_0112,Catawiki,2023,synthetic_artist_12|Relief,Relief,0,2100.8958,709.4917
+syn_0113,House A,2020,synthetic_artist_13|Lithography,Lithography,1,1078.3536,779.5822
+syn_0114,House B,2021,synthetic_artist_14|Intaglio,Intaglio,1,587.6302,925.4841
+syn_0115,Catawiki,2022,synthetic_artist_15|Screenprint,Screenprint,0,933.0459,706.0056
+syn_0116,House A,2023,synthetic_artist_16|Relief,Relief,1,2282.8993,1588.9264
+syn_0117,House B,2020,synthetic_artist_17|Lithography,Lithography,1,1591.6722,815.5749
+syn_0118,Catawiki,2021,synthetic_artist_18|Intaglio,Intaglio,0,1093.4715,1268.5888
+syn_0119,House A,2022,synthetic_artist_19|Screenprint,Screenprint,1,845.5001,2851.3563
+syn_0120,House B,2023,synthetic_artist_20|Relief,Relief,1,1523.9776,1464.4526
+syn_0121,Catawiki,2020,synthetic_artist_01|Lithography,Lithography,0,2210.1239,127.8992
+syn_0122,House A,2021,synthetic_artist_02|Intaglio,Intaglio,1,2207.1023,253.0193
+syn_0123,House B,2022,synthetic_artist_03|Screenprint,Screenprint,1,2414.7841,252.0201
+syn_0124,Catawiki,2023,synthetic_artist_04|Relief,Relief,0,2349.9254,382.3848
+syn_0125,House A,2020,synthetic_artist_05|Lithography,Lithography,1,1908.2256,368.3309
+syn_0126,House B,2021,synthetic_artist_06|Intaglio,Intaglio,1,895.7737,545.0989
+syn_0127,Catawiki,2022,synthetic_artist_07|Screenprint,Screenprint,0,987.8614,253.4033
+syn_0128,House A,2023,synthetic_artist_08|Relief,Relief,1,1062.7534,491.1834
+syn_0129,House B,2020,synthetic_artist_09|Lithography,Lithography,1,1689.377,381.5473
+syn_0130,Catawiki,2021,synthetic_artist_10|Intaglio,Intaglio,0,1549.5342,252.3007
+syn_0131,House A,2022,synthetic_artist_11|Screenprint,Screenprint,1,878.4512,616.8807
+syn_0132,House B,2023,synthetic_artist_12|Relief,Relief,1,2121.7334,898.8617
+syn_0133,Catawiki,2020,synthetic_artist_13|Lithography,Lithography,0,1293.1115,444.8377
+syn_0134,House A,2021,synthetic_artist_14|Intaglio,Intaglio,1,910.3754,1060.7356
+syn_0135,House B,2022,synthetic_artist_15|Screenprint,Screenprint,1,2809.9717,1138.0732
+syn_0136,Catawiki,2023,synthetic_artist_16|Relief,Relief,0,1945.7756,1491.8956
+syn_0137,House A,2020,synthetic_artist_17|Lithography,Lithography,1,3288.7719,1508.764
+syn_0138,House B,2021,synthetic_artist_18|Intaglio,Intaglio,1,1522.6443,1343.1512
+syn_0139,Catawiki,2022,synthetic_artist_19|Screenprint,Screenprint,0,2367.1559,1044.8261
+syn_0140,House A,2023,synthetic_artist_20|Relief,Relief,1,1585.4546,1734.1263
+syn_0141,House B,2020,synthetic_artist_01|Lithography,Lithography,1,1183.5328,115.7597
+syn_0142,Catawiki,2021,synthetic_artist_02|Intaglio,Intaglio,0,1507.9872,115.5213
+syn_0143,House A,2022,synthetic_artist_03|Screenprint,Screenprint,1,2464.0524,215.7469
+syn_0144,House B,2023,synthetic_artist_04|Relief,Relief,1,777.6724,341.8947
+syn_0145,Catawiki,2020,synthetic_artist_05|Lithography,Lithography,0,1294.3329,238.6352
+syn_0146,House A,2021,synthetic_artist_06|Intaglio,Intaglio,1,1910.6394,423.4558
+syn_0147,House B,2022,synthetic_artist_07|Screenprint,Screenprint,1,1424.0883,362.6316
+syn_0148,Catawiki,2023,synthetic_artist_08|Relief,Relief,0,814.037,387.7981
+syn_0149,House A,2020,synthetic_artist_09|Lithography,Lithography,1,1995.1893,558.9965
+syn_0150,House B,2021,synthetic_artist_10|Intaglio,Intaglio,1,1496.0616,301.6609
+syn_0151,Catawiki,2022,synthetic_artist_11|Screenprint,Screenprint,0,2082.004,391.3875
+syn_0152,House A,2023,synthetic_artist_12|Relief,Relief,1,3491.9161,718.9815
+syn_0153,House B,2020,synthetic_artist_13|Lithography,Lithography,1,1435.2962,898.8166
+syn_0154,Catawiki,2021,synthetic_artist_14|Intaglio,Intaglio,0,1130.8194,732.2575
+syn_0155,House A,2022,synthetic_artist_15|Screenprint,Screenprint,1,2129.8072,1468.1521
+syn_0156,House B,2023,synthetic_artist_16|Relief,Relief,1,1235.0746,1959.7084
+syn_0157,Catawiki,2020,synthetic_artist_17|Lithography,Lithography,0,2552.0425,1007.1689
+syn_0158,House A,2021,synthetic_artist_18|Intaglio,Intaglio,1,1696.6293,1130.251
+syn_0159,House B,2022,synthetic_artist_19|Screenprint,Screenprint,1,1213.7242,2324.8448
+syn_0160,Catawiki,2023,synthetic_artist_20|Relief,Relief,0,1172.8242,2631.7695
+syn_0161,House A,2020,synthetic_artist_01|Lithography,Lithography,1,2183.3716,140.25
+syn_0162,House B,2021,synthetic_artist_02|Intaglio,Intaglio,1,1290.2148,216.4628
+syn_0163,Catawiki,2022,synthetic_artist_03|Screenprint,Screenprint,0,756.5874,125.5767
+syn_0164,House A,2023,synthetic_artist_04|Relief,Relief,1,1524.7276,552.168
+syn_0165,House B,2020,synthetic_artist_05|Lithography,Lithography,1,1341.6901,265.8269
+syn_0166,Catawiki,2021,synthetic_artist_06|Intaglio,Intaglio,0,1114.3601,316.9001
+syn_0167,House A,2022,synthetic_artist_07|Screenprint,Screenprint,1,2217.1431,559.7183
+syn_0168,House B,2023,synthetic_artist_08|Relief,Relief,1,2573.6871,305.0414
+syn_0169,Catawiki,2020,synthetic_artist_09|Lithography,Lithography,0,1501.4549,328.0827
+syn_0170,House A,2021,synthetic_artist_10|Intaglio,Intaglio,1,983.4661,540.3694
+syn_0171,House B,2022,synthetic_artist_11|Screenprint,Screenprint,1,789.2252,578.1711
+syn_0172,Catawiki,2023,synthetic_artist_12|Relief,Relief,0,988.1474,988.2243
+syn_0173,House A,2020,synthetic_artist_13|Lithography,Lithography,1,532.0646,673.863
+syn_0174,House B,2021,synthetic_artist_14|Intaglio,Intaglio,1,824.365,1304.5415
+syn_0175,Catawiki,2022,synthetic_artist_15|Screenprint,Screenprint,0,1591.4148,765.7939
+syn_0176,House A,2023,synthetic_artist_16|Relief,Relief,1,2295.9997,2453.2894
+syn_0177,House B,2020,synthetic_artist_17|Lithography,Lithography,1,1547.1996,1469.239
+syn_0178,Catawiki,2021,synthetic_artist_18|Intaglio,Intaglio,0,2863.7162,1173.7285
+syn_0179,House A,2022,synthetic_artist_19|Screenprint,Screenprint,1,897.9954,4318.1634
+syn_0180,House B,2023,synthetic_artist_20|Relief,Relief,1,2652.2547,1532.4538
+syn_0181,Catawiki,2020,synthetic_artist_01|Lithography,Lithography,0,949.8127,278.7941
+syn_0182,House A,2021,synthetic_artist_02|Intaglio,Intaglio,1,1114.0925,235.7386
+syn_0183,House B,2022,synthetic_artist_03|Screenprint,Screenprint,1,2238.0054,145.0189
+syn_0184,Catawiki,2023,synthetic_artist_04|Relief,Relief,0,2280.707,145.2105
+syn_0185,House A,2020,synthetic_artist_05|Lithography,Lithography,1,2203.2244,522.6224
+syn_0186,House B,2021,synthetic_artist_06|Intaglio,Intaglio,1,1528.1215,417.104
+syn_0187,Catawiki,2022,synthetic_artist_07|Screenprint,Screenprint,0,855.8326,478.7354
+syn_0188,House A,2023,synthetic_artist_08|Relief,Relief,1,1153.4533,515.1415
+syn_0189,House B,2020,synthetic_artist_09|Lithography,Lithography,1,1075.4034,617.3046
+syn_0190,Catawiki,2021,synthetic_artist_10|Intaglio,Intaglio,0,1921.5032,528.8401
+syn_0191,House A,2022,synthetic_artist_11|Screenprint,Screenprint,1,1906.3411,850.925
+syn_0192,House B,2023,synthetic_artist_12|Relief,Relief,1,1584.7337,1090.5502
+syn_0193,Catawiki,2020,synthetic_artist_13|Lithography,Lithography,0,645.7007,421.8115
+syn_0194,House A,2021,synthetic_artist_14|Intaglio,Intaglio,1,1215.7924,1087.4715
+syn_0195,House B,2022,synthetic_artist_15|Screenprint,Screenprint,1,748.8608,1047.452
+syn_0196,Catawiki,2023,synthetic_artist_16|Relief,Relief,0,3841.9457,457.7632
+syn_0197,House A,2020,synthetic_artist_17|Lithography,Lithography,1,816.1054,1567.9791
+syn_0198,House B,2021,synthetic_artist_18|Intaglio,Intaglio,1,772.4279,1182.5621
+syn_0199,Catawiki,2022,synthetic_artist_19|Screenprint,Screenprint,0,1363.7992,885.4781
+syn_0200,House A,2023,synthetic_artist_20|Relief,Relief,1,661.9195,4842.5698
+syn_0201,House B,2020,synthetic_artist_01|Lithography,Lithography,1,1703.0036,125.5078
+syn_0202,Catawiki,2021,synthetic_artist_02|Intaglio,Intaglio,0,1748.8619,81.2627
+syn_0203,House A,2022,synthetic_artist_03|Screenprint,Screenprint,1,3533.1271,266.1717
+syn_0204,House B,2023,synthetic_artist_04|Relief,Relief,1,2128.8059,285.1871
+syn_0205,Catawiki,2020,synthetic_artist_05|Lithography,Lithography,0,1266.174,154.036
+syn_0206,House A,2021,synthetic_artist_06|Intaglio,Intaglio,1,777.6665,239.7918
+syn_0207,House B,2022,synthetic_artist_07|Screenprint,Screenprint,1,1019.2898,581.3717
+syn_0208,Catawiki,2023,synthetic_artist_08|Relief,Relief,0,743.2672,268.7754
+syn_0209,House A,2020,synthetic_artist_09|Lithography,Lithography,1,1095.778,481.0157
+syn_0210,House B,2021,synthetic_artist_10|Intaglio,Intaglio,1,865.6976,582.929
+syn_0211,Catawiki,2022,synthetic_artist_11|Screenprint,Screenprint,0,1350.063,351.6831
+syn_0212,House A,2023,synthetic_artist_12|Relief,Relief,1,697.6266,915.7658
+syn_0213,House B,2020,synthetic_artist_13|Lithography,Lithography,1,1226.6597,557.657
+syn_0214,Catawiki,2021,synthetic_artist_14|Intaglio,Intaglio,0,1166.6841,782.12
+syn_0215,House A,2022,synthetic_artist_15|Screenprint,Screenprint,1,2135.9766,2201.3535
+syn_0216,House B,2023,synthetic_artist_16|Relief,Relief,1,834.6491,1636.1118
+syn_0217,Catawiki,2020,synthetic_artist_17|Lithography,Lithography,0,1915.2191,635.2763
+syn_0218,House A,2021,synthetic_artist_18|Intaglio,Intaglio,1,2781.398,668.2873
+syn_0219,House B,2022,synthetic_artist_19|Screenprint,Screenprint,1,1315.7803,2810.9228
+syn_0220,Catawiki,2023,synthetic_artist_20|Relief,Relief,0,617.5902,1235.2416
+syn_0221,House A,2020,synthetic_artist_01|Lithography,Lithography,1,2104.1911,212.4477
+syn_0222,House B,2021,synthetic_artist_02|Intaglio,Intaglio,1,903.4173,334.4877
+syn_0223,Catawiki,2022,synthetic_artist_03|Screenprint,Screenprint,0,1990.3472,211.8469
+syn_0224,House A,2023,synthetic_artist_04|Relief,Relief,1,2040.4085,368.0674
+syn_0225,House B,2020,synthetic_artist_05|Lithography,Lithography,1,1192.0446,326.454
+syn_0226,Catawiki,2021,synthetic_artist_06|Intaglio,Intaglio,0,1193.9884,238.1531
+syn_0227,House A,2022,synthetic_artist_07|Screenprint,Screenprint,1,1718.1282,448.0967
+syn_0228,House B,2023,synthetic_artist_08|Relief,Relief,1,1243.5966,508.8343
+syn_0229,Catawiki,2020,synthetic_artist_09|Lithography,Lithography,0,1655.2181,208.2831
+syn_0230,House A,2021,synthetic_artist_10|Intaglio,Intaglio,1,1020.21,483.1327
+syn_0231,House B,2022,synthetic_artist_11|Screenprint,Screenprint,1,1647.7567,328.7805
+syn_0232,Catawiki,2023,synthetic_artist_12|Relief,Relief,0,1604.1947,610.6547
+syn_0233,House A,2020,synthetic_artist_13|Lithography,Lithography,1,2476.3679,550.207
+syn_0234,House B,2021,synthetic_artist_14|Intaglio,Intaglio,1,1725.9155,859.7625
+syn_0235,Catawiki,2022,synthetic_artist_15|Screenprint,Screenprint,0,2443.8672,412.627
+syn_0236,House A,2023,synthetic_artist_16|Relief,Relief,1,1231.6689,1283.2252
+syn_0237,House B,2020,synthetic_artist_17|Lithography,Lithography,1,547.5728,759.5442
+syn_0238,Catawiki,2021,synthetic_artist_18|Intaglio,Intaglio,0,1784.4335,1151.5041
+syn_0239,House A,2022,synthetic_artist_19|Screenprint,Screenprint,1,1187.597,1635.0273
+syn_0240,House B,2023,synthetic_artist_20|Relief,Relief,1,2840.4908,2709.376

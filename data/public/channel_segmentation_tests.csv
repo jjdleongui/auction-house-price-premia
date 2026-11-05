@@ -1,0 +1,6 @@
+test,estimate,metric,degrees_of_freedom,p_value,interpretation
+Joint cluster-robust Wald test,174.61909685094753,chi-square,5,7.539473222515948e-36,Tests whether all house coefficients are jointly zero
+Pooled Spanish-channel coefficient,96.91474101581147,percent difference,,8.73084081356474e-21,Cluster-robust adjusted association
+Stratified permutation test,96.91474101580955,percent difference,,0.0001999600079984003,Labels shuffled within artist-technique-by-year strata
+Incremental explanatory power: pooled channel,0.021373268417075954,partial R-squared,,,"Added fit beyond year, documentation, dimensions and cell effects"
+Incremental explanatory power: house channels,0.029785017831213192,partial R-squared,,,Added fit of five house indicators beyond observed controls

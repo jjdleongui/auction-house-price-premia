@@ -1,0 +1,64 @@
+{
+  "observations": 12364,
+  "artist_technique_pairs": 263,
+  "artists": 206,
+  "clusters": 263,
+  "period": [
+    "2020-11-04",
+    "2024-05-11"
+  ],
+  "catawiki_observations": 10885,
+  "spanish_observations": 1479,
+  "pooled_spanish_vs_catawiki": {
+    "log_coefficient": 0.6776006623587162,
+    "standard_error": 0.07246747937969884,
+    "percent_difference": 96.9147410177395,
+    "ci95_low_percent": 70.84166616604415,
+    "ci95_high_percent": 126.96696947685398,
+    "p_value": 8.7308408088895e-21
+  },
+  "pooled_complete_dimensions_vs_catawiki": {
+    "log_coefficient": 0.6561657207691026,
+    "standard_error": 0.09336508936564024,
+    "percent_difference": 92.7388004543581,
+    "ci95_low_percent": 60.507985333185324,
+    "ci95_high_percent": 131.44172623855368,
+    "p_value": 2.095812692807671e-12
+  },
+  "complete_dimensions_observations": 5449,
+  "complete_dimensions_pairs": 191,
+  "dimension_observed_percent_by_channel": {
+    "Alcalá Subastas": 98.86363636363636,
+    "Balclis (Auctionet)": 99.4413407821229,
+    "Barcelona Auctions (Auctionet)": 98.11320754716981,
+    "Catawiki": 38.980248047772164,
+    "Durán Arte y Subastas": 99.24385633270322,
+    "Subastas Segre": 94.16342412451361
+  },
+  "price_trim_limits_2025_eur": [
+    2.1127700392026023,
+    3594.218762669261
+  ],
+  "trimmed_observations": 12123,
+  "trimmed_pairs": 263,
+  "spanish_pre_common_pair_observations": 4023,
+  "catawiki_pre_common_pair_observations": 38868,
+  "title_matched_pairs": 34,
+  "characteristic_matched_pairs": 292,
+  "same_work_channel_effect": {
+    "broad_matched_pairs": 34,
+    "broad_works": 27,
+    "broad_percent_effect": 103.2889872929972,
+    "broad_ci95_low_percent": 46.15284406153738,
+    "broad_ci95_high_percent": 182.7616022115312,
+    "broad_p_value": 2.509018688381528e-05,
+    "matched_pairs": 12,
+    "works": 10,
+    "log_effect": 0.5345979784876999,
+    "standard_error": 0.19837415397944566,
+    "percent_effect": 70.6761949291197,
+    "ci95_low_percent": 15.695526316078523,
+    "ci95_high_percent": 151.78470112923063,
+    "p_value": 0.007041032233564741
+  }
+}

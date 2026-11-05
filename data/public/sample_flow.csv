@@ -1,0 +1,13 @@
+stage,records_or_units,definition
+Spanish master archive records,250166,Three public historical house archives before the print filter
+Spanish candidate records,22558,Candidate print records including Auctionet supplement
+Spanish records classified as graphic art,20698,Retained by the auditable classification
+Spanish sold records eligible before common-cell restriction,4023,"Positive EUR result, common dates, mapped technique and artist"
+Catawiki records eligible before common-cell restriction,38868,"Positive EUR result, common dates, mapped technique and artist"
+Final Spanish observations,1479,Artist–technique cell also observed on Catawiki
+Final Catawiki observations,10885,Artist–technique cell also observed at a Spanish house
+Final comparable sample,12364,Main fixed-effects sample
+Artist–technique cells,263,Clustering and fixed-effect unit
+Characteristic-matched pairs,292,One-to-one matches
+Same-title pairs,34,Exact normalised title within two sale years
+Strict same-title pairs,12,Both dimensions observed and area within 10%

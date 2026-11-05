@@ -1,0 +1,23 @@
+{
+  "repod_prints": {
+    "enabled": true,
+    "access": "official_dataverse_download",
+    "dataset_doi": "10.18150/AEQF8C",
+    "license": "Open Data Commons Open Database License 1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "source_url": "https://repod.icm.edu.pl/dataset.xhtml?persistentId=doi:10.18150/AEQF8C",
+    "price_currency": "EUR",
+    "currency_basis": "The associated peer-reviewed article identifies PRICE as EUR; the authors' preprocessing code performs no currency conversion.",
+    "associated_article_url": "https://doi.org/10.3390/app142311006",
+    "preprocessing_code_url": "https://github.com/PatrykMauer/art-data-prep-pipeline",
+    "file_id": 47418,
+    "filename": "results_2024_05_11.xlsx",
+    "md5": "0bb522ed30c0e099f1d778abb0df2405",
+    "processed_file": {
+      "file_id": 47421,
+      "filename": "auction_results_no_img_original.csv",
+      "format": "original",
+      "md5": "ac73a868315d76c697b1b21bbf646e4f"
+    }
+  }
+}

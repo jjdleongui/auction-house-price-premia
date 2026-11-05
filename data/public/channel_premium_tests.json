@@ -1,0 +1,730 @@
+{
+  "definition": "Conditional premium of published Spanish auction-house prices over Catawiki prices for comparable prints; reference channel = Catawiki",
+  "ladder": [
+    {
+      "rung": "Fixed effects (artist-technique, year, documentation, size)",
+      "units": 12364,
+      "clusters": 263,
+      "log_premium": 0.677600662348925,
+      "standard_error": 0.07246747937909064,
+      "premium_percent": 96.91474101581147,
+      "ci95_low_percent": 70.84166597317375,
+      "ci95_high_percent": 126.9669697286421,
+      "one_sided_p_value": 4.36542040678237e-21,
+      "t_statistic": 9.350410255119707,
+      "critical_value": 1.959964,
+      "reference_df": null
+    },
+    {
+      "rung": "Characteristic-matched pairs (all houses)",
+      "units": 292,
+      "clusters": 71,
+      "log_premium": 0.45739821037671247,
+      "standard_error": 0.18455178973389574,
+      "premium_percent": 57.99579146342918,
+      "ci95_low_percent": 9.34318888296726,
+      "ci95_high_percent": 128.29652560136665,
+      "one_sided_p_value": 0.0078050177016288505,
+      "positive_share": 0.6643835616438356,
+      "critical_value": 1.994437111771186,
+      "reference_df": 70
+    },
+    {
+      "rung": "Same-title pairs",
+      "units": 34,
+      "clusters": 27,
+      "log_premium": 0.7094583638235294,
+      "standard_error": 0.16835799061030715,
+      "premium_percent": 103.28898737003342,
+      "ci95_low_percent": 43.82017635320267,
+      "ci95_high_percent": 187.3478077543279,
+      "one_sided_p_value": 0.0001335303206007941,
+      "positive_share": 0.8529411764705882,
+      "critical_value": 2.055529438642871,
+      "reference_df": 26
+    },
+    {
+      "rung": "Strict same-title pairs",
+      "units": 12,
+      "clusters": 10,
+      "log_premium": 0.5345979791666668,
+      "standard_error": 0.19837415452284557,
+      "premium_percent": 70.67619504500321,
+      "ci95_low_percent": 8.963683800972639,
+      "ci95_high_percent": 167.34011313574874,
+      "one_sided_p_value": 0.012299204341791574,
+      "positive_share": 0.8333333333333334,
+      "critical_value": 2.262157162854099,
+      "reference_df": 9
+    }
+  ],
+  "price_convention_audit": [
+    {
+      "channel": "Catawiki",
+      "published_prices": 48653,
+      "share_whole_euro": 1.0,
+      "share_multiple_of_5": 0.703862043450558,
+      "share_whole_euro_if_fee_included": 0.015415287854808541
+    },
+    {
+      "channel": "Alcalá Subastas",
+      "published_prices": 27964,
+      "share_whole_euro": 0.9980331855242455,
+      "share_multiple_of_5": 0.9972464597339437,
+      "share_whole_euro_if_fee_included": 0.014304105278214848
+    },
+    {
+      "channel": "Durán Arte y Subastas",
+      "published_prices": 65402,
+      "share_whole_euro": 1.0,
+      "share_multiple_of_5": 0.999954129843124,
+      "share_whole_euro_if_fee_included": 0.054417296107152686
+    },
+    {
+      "channel": "Subastas Segre",
+      "published_prices": 26919,
+      "share_whole_euro": 1.0,
+      "share_multiple_of_5": 0.9991455849028568,
+      "share_whole_euro_if_fee_included": 0.021657565288457966
+    },
+    {
+      "channel": "Balclis (Auctionet)",
+      "published_prices": 3099,
+      "share_whole_euro": 1.0,
+      "share_multiple_of_5": 0.8731848983543078,
+      "share_whole_euro_if_fee_included": 0.020006453694740238
+    },
+    {
+      "channel": "Barcelona Auctions (Auctionet)",
+      "published_prices": 1340,
+      "share_whole_euro": 1.0,
+      "share_multiple_of_5": 0.8604477611940299,
+      "share_whole_euro_if_fee_included": 0.03507462686567164
+    }
+  ],
+  "fee_schedules": {
+    "buyer_fees_rate_incl_vat_and_fixed_eur": {
+      "Subastas Segre": [
+        0.2178,
+        0.0
+      ],
+      "Durán Arte y Subastas": [
+        0.23,
+        0.0
+      ],
+      "Alcalá Subastas": [
+        0.242,
+        0.0
+      ],
+      "Balclis (Auctionet)": [
+        0.25,
+        8.0
+      ],
+      "Barcelona Auctions (Auctionet)": [
+        0.25,
+        8.0
+      ],
+      "Catawiki": [
+        0.09,
+        3.0
+      ]
+    },
+    "seller_fee_catawiki": 0.15125,
+    "seller_fee_house_adverse_assumption": 0.242
+  },
+  "ladder_by_convention": {
+    "hammer": [
+      {
+        "rung": "Fixed effects (artist-technique, year, documentation, size)",
+        "units": 12364,
+        "clusters": 263,
+        "log_premium": 0.677600662348925,
+        "standard_error": 0.07246747937909064,
+        "premium_percent": 96.91474101581147,
+        "ci95_low_percent": 70.84166597317375,
+        "ci95_high_percent": 126.9669697286421,
+        "one_sided_p_value": 4.36542040678237e-21,
+        "t_statistic": 9.350410255119707,
+        "critical_value": 1.959964,
+        "reference_df": null
+      },
+      {
+        "rung": "Characteristic-matched pairs (all houses)",
+        "units": 292,
+        "clusters": 71,
+        "log_premium": 0.45739821037671247,
+        "standard_error": 0.18455178973389574,
+        "premium_percent": 57.99579146342918,
+        "ci95_low_percent": 9.34318888296726,
+        "ci95_high_percent": 128.29652560136665,
+        "one_sided_p_value": 0.0078050177016288505,
+        "positive_share": 0.6643835616438356,
+        "critical_value": 1.994437111771186,
+        "reference_df": 70
+      },
+      {
+        "rung": "Same-title pairs",
+        "units": 34,
+        "clusters": 27,
+        "log_premium": 0.7094583638235294,
+        "standard_error": 0.16835799061030715,
+        "premium_percent": 103.28898737003342,
+        "ci95_low_percent": 43.82017635320267,
+        "ci95_high_percent": 187.3478077543279,
+        "one_sided_p_value": 0.0001335303206007941,
+        "positive_share": 0.8529411764705882,
+        "critical_value": 2.055529438642871,
+        "reference_df": 26
+      },
+      {
+        "rung": "Strict same-title pairs",
+        "units": 12,
+        "clusters": 10,
+        "log_premium": 0.5345979791666668,
+        "standard_error": 0.19837415452284557,
+        "premium_percent": 70.67619504500321,
+        "ci95_low_percent": 8.963683800972639,
+        "ci95_high_percent": 167.34011313574874,
+        "one_sided_p_value": 0.012299204341791574,
+        "positive_share": 0.8333333333333334,
+        "critical_value": 2.262157162854099,
+        "reference_df": 9
+      }
+    ],
+    "buyer_all_in": [
+      {
+        "rung": "Fixed effects (artist-technique, year, documentation, size)",
+        "units": 12364,
+        "clusters": 263,
+        "log_premium": 0.7789261436503265,
+        "standard_error": 0.07068376210027039,
+        "premium_percent": 117.9130935005563,
+        "ci95_low_percent": 89.72178328682227,
+        "ci95_high_percent": 150.29343228970419,
+        "one_sided_p_value": 1.5324410021904054e-28,
+        "t_statistic": 11.01987387917128,
+        "critical_value": 1.959964,
+        "reference_df": null
+      },
+      {
+        "rung": "Characteristic-matched pairs (all houses)",
+        "units": 292,
+        "clusters": 71,
+        "log_premium": 0.5532032175971296,
+        "standard_error": 0.17866536263549684,
+        "premium_percent": 73.88139060471046,
+        "ci95_low_percent": 21.758134607688337,
+        "ci95_high_percent": 148.31801255863473,
+        "one_sided_p_value": 0.0014089793558144967,
+        "positive_share": 0.6952054794520548,
+        "critical_value": 1.994437111771186,
+        "reference_df": 70
+      },
+      {
+        "rung": "Same-title pairs",
+        "units": 34,
+        "clusters": 27,
+        "log_premium": 0.8172908560578769,
+        "standard_error": 0.1637044230717931,
+        "premium_percent": 126.43570512551399,
+        "ci95_low_percent": 61.73541853971813,
+        "ci95_high_percent": 217.018554245107,
+        "one_sided_p_value": 1.7139157180253652e-05,
+        "positive_share": 0.8823529411764706,
+        "critical_value": 2.055529438642871,
+        "reference_df": 26
+      },
+      {
+        "rung": "Strict same-title pairs",
+        "units": 12,
+        "clusters": 10,
+        "log_premium": 0.6518269444481112,
+        "standard_error": 0.19108292643962735,
+        "premium_percent": 91.904361441949,
+        "ci95_low_percent": 24.55377117993491,
+        "ci95_high_percent": 195.67377680793118,
+        "one_sided_p_value": 0.0038672979602425613,
+        "positive_share": 0.9166666666666666,
+        "critical_value": 2.262157162854099,
+        "reference_df": 9
+      }
+    ],
+    "seller_net_adverse": [
+      {
+        "rung": "Fixed effects (artist-technique, year, documentation, size)",
+        "units": 12364,
+        "clusters": 263,
+        "log_premium": 0.5645193691183897,
+        "standard_error": 0.07246747937909062,
+        "premium_percent": 75.86023409718403,
+        "ci95_low_percent": 52.57494292508462,
+        "ci95_high_percent": 102.6992200934439,
+        "one_sided_p_value": 3.3512997191467096e-15,
+        "t_statistic": 7.789968327244912,
+        "critical_value": 1.959964,
+        "reference_df": null
+      },
+      {
+        "rung": "Characteristic-matched pairs (all houses)",
+        "units": 292,
+        "clusters": 71,
+        "log_premium": 0.3443169171880994,
+        "standard_error": 0.184551789793733,
+        "premium_percent": 41.102574296671385,
+        "ci95_low_percent": -2.347997446983906,
+        "ci95_high_percent": 103.88661730043268,
+        "one_sided_p_value": 0.033137433430314514,
+        "positive_share": 0.6267123287671232,
+        "critical_value": 1.994437111771186,
+        "reference_df": 70
+      },
+      {
+        "rung": "Same-title pairs",
+        "units": 34,
+        "clusters": 27,
+        "log_premium": 0.5963770702007217,
+        "standard_error": 0.16835799064596926,
+        "premium_percent": 81.55293356823414,
+        "ci95_low_percent": 28.442643446211857,
+        "ci95_high_percent": 156.62402145308513,
+        "one_sided_p_value": 0.0007615470165838167,
+        "positive_share": 0.7941176470588235,
+        "critical_value": 2.055529438642871,
+        "reference_df": 26
+      },
+      {
+        "rung": "Strict same-title pairs",
+        "units": 12,
+        "clusters": 10,
+        "log_premium": 0.42151668523945257,
+        "standard_error": 0.19837415398139935,
+        "premium_percent": 52.42716436404259,
+        "ci95_low_percent": -2.686925048883582,
+        "ci95_high_percent": 138.7555880618723,
+        "one_sided_p_value": 0.03127104110487806,
+        "positive_share": 0.75,
+        "critical_value": 2.262157162854099,
+        "reference_df": 9
+      }
+    ]
+  },
+  "house_breakdown": [
+    {
+      "house": "Alcalá Subastas",
+      "observations": 176,
+      "hammer": {
+        "fe_premium_percent": 135.49154458516014,
+        "fe_ci95_low_percent": 76.12817595838504,
+        "fe_ci95_high_percent": 214.8631232302518,
+        "fe_one_sided_p": 3.7470926800169775e-09,
+        "matched_pairs": 20,
+        "matched_premium_percent": 70.59068778540869,
+        "matched_ci95_low_percent": -5.077580578097697,
+        "matched_one_sided_p": 0.03523396157621769,
+        "premium_uncontrolled_percent": 258.3727195492297,
+        "premium_controlled_percent": 135.49154458516088,
+        "oster_delta_conventional": 6.466070032471459,
+        "causal_bound_delta1_conventional_percent": 106.27569268149936,
+        "oster_delta_rmax1": 0.9292217745949243,
+        "causal_bound_delta1_rmax1_percent": -6.315686425169076
+      },
+      "buyer_all_in": {
+        "fe_premium_percent": 158.61839930738114,
+        "fe_ci95_low_percent": 95.3091891982779,
+        "fe_ci95_high_percent": 242.44920443764642,
+        "fe_one_sided_p": 1.645464165964503e-11,
+        "matched_pairs": 20,
+        "matched_premium_percent": 91.84307206908933,
+        "matched_ci95_low_percent": 7.224738268559731,
+        "matched_one_sided_p": 0.015576898090564952
+      },
+      "seller_net_adverse": {
+        "fe_premium_percent": 110.31233083422825,
+        "fe_ci95_low_percent": 57.29620898551489,
+        "fe_ci95_high_percent": 181.19734598943228,
+        "fe_one_sided_p": 2.6322099624010145e-07,
+        "matched_pairs": 20,
+        "matched_premium_percent": 52.35079975819935,
+        "matched_ci95_low_percent": -15.22687022149937,
+        "matched_one_sided_p": 0.071799708201031,
+        "premium_uncontrolled_percent": 220.0548116857838,
+        "premium_controlled_percent": 110.31233083422845,
+        "oster_delta_conventional": 5.659345679606521,
+        "causal_bound_delta1_conventional_percent": 84.42292326643103,
+        "oster_delta_rmax1": 0.8065399201780429,
+        "causal_bound_delta1_rmax1_percent": -16.33259535820288
+      }
+    },
+    {
+      "house": "Balclis (Auctionet)",
+      "observations": 358,
+      "hammer": {
+        "fe_premium_percent": 29.401233621243694,
+        "fe_ci95_low_percent": 12.012629193510833,
+        "fe_ci95_high_percent": 49.48920834428329,
+        "fe_one_sided_p": 0.00023199939198953384,
+        "matched_pairs": 72,
+        "matched_premium_percent": 51.16837260739513,
+        "matched_ci95_low_percent": 14.648557786261545,
+        "matched_one_sided_p": 0.0024411480092903395,
+        "premium_uncontrolled_percent": -10.32395888932061,
+        "premium_controlled_percent": 29.40123362124295,
+        "oster_delta_conventional": Infinity,
+        "causal_bound_delta1_conventional_percent": 44.461454723401715,
+        "oster_delta_rmax1": Infinity,
+        "causal_bound_delta1_rmax1_percent": 185.06198079719545
+      },
+      "buyer_all_in": {
+        "fe_premium_percent": 49.229554431019245,
+        "fe_ci95_low_percent": 30.467095396172837,
+        "fe_ci95_high_percent": 70.69024069293256,
+        "fe_one_sided_p": 2.620058665145721e-09,
+        "matched_pairs": 72,
+        "matched_premium_percent": 70.08029231266897,
+        "matched_ci95_low_percent": 32.62691774385853,
+        "matched_one_sided_p": 8.0215199647392e-05
+      },
+      "seller_net_adverse": {
+        "fe_premium_percent": 15.56540216188832,
+        "fe_ci95_low_percent": 0.03602112363028608,
+        "fe_ci95_high_percent": 33.50553157580762,
+        "fe_one_sided_p": 0.024715482332148705,
+        "matched_pairs": 72,
+        "matched_premium_percent": 35.00515636860206,
+        "matched_ci95_low_percent": 2.3901111124000467,
+        "matched_one_sided_p": 0.01723628558084846,
+        "premium_uncontrolled_percent": -19.912295538269937,
+        "premium_controlled_percent": 15.565402161887743,
+        "oster_delta_conventional": Infinity,
+        "causal_bound_delta1_conventional_percent": 29.04810922047922,
+        "oster_delta_rmax1": Infinity,
+        "causal_bound_delta1_rmax1_percent": 154.5825996398061
+      }
+    },
+    {
+      "house": "Barcelona Auctions (Auctionet)",
+      "observations": 159,
+      "hammer": {
+        "fe_premium_percent": 37.022027015661386,
+        "fe_ci95_low_percent": -2.477486020339811,
+        "fe_ci95_high_percent": 92.52001534124172,
+        "fe_one_sided_p": 0.03473332079465819,
+        "matched_pairs": 64,
+        "matched_premium_percent": 45.794281654952954,
+        "matched_ci95_low_percent": -57.560752679064485,
+        "matched_one_sided_p": 0.26146878163784615,
+        "premium_uncontrolled_percent": 9.073349186733093,
+        "premium_controlled_percent": 37.022027015662516,
+        "oster_delta_conventional": Infinity,
+        "causal_bound_delta1_conventional_percent": 46.72980526238616,
+        "oster_delta_rmax1": Infinity,
+        "causal_bound_delta1_rmax1_percent": 126.23494385241915
+      },
+      "buyer_all_in": {
+        "fe_premium_percent": 55.31351766950833,
+        "fe_ci95_low_percent": 11.999728483182501,
+        "fe_ci95_high_percent": 115.37810044333096,
+        "fe_one_sided_p": 0.004153610956471591,
+        "matched_pairs": 64,
+        "matched_premium_percent": 57.28310389410487,
+        "matched_ci95_low_percent": -51.0790470106814,
+        "matched_one_sided_p": 0.20976202313291187
+      },
+      "seller_net_adverse": {
+        "fe_premium_percent": 22.371365511483255,
+        "fe_ci95_low_percent": -12.904782802259234,
+        "fe_ci95_high_percent": 71.93540103524164,
+        "fe_one_sided_p": 0.12228975897173922,
+        "matched_pairs": 64,
+        "matched_premium_percent": 30.205673601632604,
+        "matched_ci95_low_percent": -62.09843954258199,
+        "matched_one_sided_p": 0.3267409950216677,
+        "premium_uncontrolled_percent": -2.588985350759177,
+        "premium_controlled_percent": 22.371365511484324,
+        "oster_delta_conventional": Infinity,
+        "causal_bound_delta1_conventional_percent": 31.039405670197855,
+        "oster_delta_rmax1": Infinity,
+        "causal_bound_delta1_rmax1_percent": 102.0454638469949
+      }
+    },
+    {
+      "house": "Durán Arte y Subastas",
+      "observations": 529,
+      "hammer": {
+        "fe_premium_percent": 99.5348471596149,
+        "fe_ci95_low_percent": 70.1133888287926,
+        "fe_ci95_high_percent": 134.0448068498658,
+        "fe_one_sided_p": 1.0543678208216667e-17,
+        "matched_pairs": 75,
+        "matched_premium_percent": 54.013459403933616,
+        "matched_ci95_low_percent": 20.665652268166056,
+        "matched_one_sided_p": 0.0005141769225133338,
+        "premium_uncontrolled_percent": 126.39281488091288,
+        "premium_controlled_percent": 99.53484715961635,
+        "oster_delta_conventional": 17.221494068282563,
+        "causal_bound_delta1_conventional_percent": 91.68916801205307,
+        "oster_delta_rmax1": 2.579772290411304,
+        "causal_bound_delta1_rmax1_percent": 52.65890754138434
+      },
+      "buyer_all_in": {
+        "fe_premium_percent": 115.24172003294831,
+        "fe_ci95_low_percent": 84.44603351541393,
+        "fe_ci95_high_percent": 151.17915066940404,
+        "fe_one_sided_p": 1.113463966885314e-22,
+        "matched_pairs": 75,
+        "matched_premium_percent": 67.58779709095214,
+        "matched_ci95_low_percent": 34.5720407546769,
+        "matched_one_sided_p": 1.7209570346856292e-05
+      },
+      "seller_net_adverse": {
+        "fe_premium_percent": 78.20019339851349,
+        "fe_ci95_low_percent": 51.92453458877758,
+        "fe_ci95_high_percent": 109.02028111010138,
+        "fe_one_sided_p": 6.315739800127198e-13,
+        "matched_pairs": 75,
+        "matched_premium_percent": 37.546041004651826,
+        "matched_ci95_low_percent": 7.763846213226566,
+        "matched_one_sided_p": 0.006013577511727948,
+        "premium_uncontrolled_percent": 102.18645499821166,
+        "premium_controlled_percent": 78.20019339851446,
+        "oster_delta_conventional": 14.611651612334295,
+        "causal_bound_delta1_conventional_percent": 71.29172537185063,
+        "oster_delta_rmax1": 2.157484961414126,
+        "causal_bound_delta1_rmax1_percent": 36.33632037274695
+      }
+    },
+    {
+      "house": "Subastas Segre",
+      "observations": 257,
+      "hammer": {
+        "fe_premium_percent": 213.86294377635386,
+        "fe_ci95_low_percent": 147.01562115441206,
+        "fe_ci95_high_percent": 298.8004767292797,
+        "fe_one_sided_p": 3.984530712154255e-21,
+        "matched_pairs": 61,
+        "matched_premium_percent": 82.23064040483796,
+        "matched_ci95_low_percent": 31.29226501911855,
+        "matched_one_sided_p": 0.0004207331524816078,
+        "premium_uncontrolled_percent": 402.1612361213565,
+        "premium_controlled_percent": 213.86294377635093,
+        "oster_delta_conventional": 7.249334608403322,
+        "causal_bound_delta1_conventional_percent": 168.0512808656435,
+        "oster_delta_rmax1": 1.1052385754406064,
+        "causal_bound_delta1_rmax1_percent": 11.50608795959584
+      },
+      "buyer_all_in": {
+        "fe_premium_percent": 243.63725781701345,
+        "fe_ci95_low_percent": 171.4049660683274,
+        "fe_ci95_high_percent": 335.0936044783636,
+        "fe_one_sided_p": 5.745262843109029e-25,
+        "matched_pairs": 61,
+        "matched_premium_percent": 100.90218808060307,
+        "matched_ci95_low_percent": 45.17866333283674,
+        "matched_one_sided_p": 7.496076122380009e-05
+      },
+      "seller_net_adverse": {
+        "fe_premium_percent": 180.30410766712922,
+        "fe_ci95_low_percent": 120.60423073348348,
+        "fe_ci95_high_percent": 256.15995447516184,
+        "fe_one_sided_p": 1.6606715282910117e-17,
+        "matched_pairs": 61,
+        "matched_premium_percent": 62.74618598011652,
+        "matched_ci95_low_percent": 17.254240718469703,
+        "matched_one_sided_p": 0.002552947615872246,
+        "premium_uncontrolled_percent": 348.4691805360722,
+        "premium_controlled_percent": 180.3041076671259,
+        "oster_delta_conventional": 6.628001243279836,
+        "causal_bound_delta1_conventional_percent": 139.93485721197726,
+        "oster_delta_rmax1": 0.995968324347576,
+        "causal_bound_delta1_rmax1_percent": -0.41635973682341487
+      }
+    }
+  ],
+  "sample_profile": {
+    "technique_share_percent": {
+      "auction_houses": {
+        "Litografía": 48.14063556457066,
+        "Calcografía": 27.180527383367142,
+        "Serigrafía": 23.123732251521297,
+        "Relieve": 0.8113590263691683,
+        "Fotomecánica": 0.47329276538201487,
+        "Digital": 0.2704530087897228
+      },
+      "catawiki": {
+        "Litografía": 62.6182820395039,
+        "Calcografía": 17.24391364262747,
+        "Serigrafía": 16.665135507579237,
+        "Fotomecánica": 2.939825447864033,
+        "Relieve": 0.5144694533762058,
+        "Digital": 0.01837390904915021
+      }
+    },
+    "spanish_artist_share_percent": {
+      "auction_houses": 52.73833671399595,
+      "catawiki": 41.782269177767574,
+      "catawiki_picasso_dali_miro": 36.29765732659623,
+      "artists_listed": [
+        "ALBERT RAFOLS-CASAMADA",
+        "ANTONI CLAVE",
+        "ANTONI TAPIES",
+        "ANTONIO SAURA",
+        "EDUARDO CHILLIDA",
+        "EQUIPO CRONICA",
+        "EUSEBIO SEMPERE",
+        "FRANCISCO DE GOYA",
+        "FRANCISCO GOYA",
+        "JOAN HERNANDEZ PIJUAN",
+        "JOAN MIRO",
+        "JOAN PONC",
+        "JOSEP GUINOVART",
+        "JOSEP MARIA SUBIRACHS",
+        "JUAN GENOVES",
+        "LUIS FEITO",
+        "MIQUEL BARCELO",
+        "MODEST CUIXART",
+        "PABLO PICASSO",
+        "RAFAEL CANOGAR",
+        "SALVADOR DALI"
+      ]
+    },
+    "premium_by_technique_group": [
+      {
+        "group": "Lithography",
+        "observations": 7528,
+        "auction_house_observations": 712,
+        "cells": 113,
+        "premium_percent": 108.70631016346961,
+        "ci95_low_percent": 67.4442036900624,
+        "ci95_high_percent": 160.1363495548429,
+        "one_sided_p_value": 2.9441738160805106e-11
+      },
+      {
+        "group": "Other techniques",
+        "observations": 4836,
+        "auction_house_observations": 767,
+        "cells": 150,
+        "premium_percent": 85.20188859711097,
+        "ci95_low_percent": 56.58509231589856,
+        "ci95_high_percent": 119.04856351675915,
+        "one_sided_p_value": 3.0930811990652915e-13
+      }
+    ],
+    "premium_by_period": [
+      {
+        "period": "2020–2021",
+        "observations": 374,
+        "auction_house_observations": 270,
+        "premium_percent": 119.65752262158051,
+        "ci95_low_percent": 1.3630611528688727,
+        "ci95_high_percent": 376.0060193079967,
+        "one_sided_p_value": 0.023060984684791848
+      },
+      {
+        "period": "2022–2024",
+        "observations": 11990,
+        "auction_house_observations": 1209,
+        "premium_percent": 106.86661796955575,
+        "ci95_low_percent": 75.99108876479235,
+        "ci95_high_percent": 143.15888906940597,
+        "one_sided_p_value": 6.036849793665536e-19
+      }
+    ]
+  },
+  "oster_selection": {
+    "beta_uncontrolled_log": 0.7075232314331127,
+    "premium_uncontrolled_percent": 102.8959766524868,
+    "r2_uncontrolled": 0.03223365616571794,
+    "beta_controlled_log": 0.6776006623488584,
+    "premium_controlled_percent": 96.91474101579837,
+    "r2_controlled": 0.3543260665695517,
+    "rows": [
+      {
+        "r_max_rule": "Rmax = 1.3 x R2 controlled",
+        "r_max": 0.4606238865404172,
+        "delta_for_zero_premium": 68.6168974305264,
+        "bias_adjusted_premium_delta1_percent": 94.97975254797579
+      },
+      {
+        "r_max_rule": "Rmax = 1",
+        "r_max": 1.0,
+        "delta_for_zero_premium": 11.296455118263072,
+        "bias_adjusted_premium_delta1_percent": 85.45038329193856
+      }
+    ]
+  },
+  "oster_selection_seller_net": {
+    "beta_uncontrolled_log": 0.5944419382025697,
+    "premium_uncontrolled_percent": 81.20194439185113,
+    "r2_uncontrolled": 0.022971210922212104,
+    "beta_controlled_log": 0.5645193691183259,
+    "premium_controlled_percent": 75.8602340971728,
+    "r2_controlled": 0.3481463523320595,
+    "rows": [
+      {
+        "r_max_rule": "Rmax = 1.3 x R2 controlled",
+        "r_max": 0.45259025803167735,
+        "delta_for_zero_premium": 58.737330256523734,
+        "bias_adjusted_premium_delta1_percent": 74.1781528087686
+      },
+      {
+        "r_max_rule": "Rmax = 1",
+        "r_max": 1.0,
+        "delta_for_zero_premium": 9.411247761375988,
+        "bias_adjusted_premium_delta1_percent": 65.62166778826817
+      }
+    ]
+  },
+  "cinelli_hazlett": {
+    "t_statistic_cluster_robust": 9.350410255119707,
+    "residual_df": 12093,
+    "partial_r2_channel": 0.007177921526980806,
+    "robustness_value_zero": 0.08149022754070995,
+    "robustness_value_alpha05": 0.06498261549902991,
+    "benchmarks": [
+      {
+        "covariate": "log_area_filled",
+        "partial_r2_with_channel": 0.00048117730036668324,
+        "partial_r2_with_price": 0.013378826744581901,
+        "strength_multiple_to_erase_premium": 33.249999999999986
+      },
+      {
+        "covariate": "documented",
+        "partial_r2_with_channel": 0.0019763629953647886,
+        "partial_r2_with_price": 0.05952220450625045,
+        "strength_multiple_to_erase_premium": 7.779999999999996
+      }
+    ]
+  },
+  "rosenbaum_bounds": [
+    {
+      "design": "Characteristic-matched pairs",
+      "pairs": 292,
+      "p_value_gamma_1": 4.131429379466274e-09,
+      "max_gamma_significant_05": 1.75,
+      "selected": {
+        "1.0": 4.131429379466274e-09,
+        "1.25": 1.786978022264506e-05,
+        "1.5": 0.0024055734457025177,
+        "1.75": 0.042230357503419635,
+        "2.0": 0.21392956788129475,
+        "2.5": 0.7669356382030961,
+        "3.0": 0.9734319447262119
+      }
+    },
+    {
+      "design": "Strict same-title pairs",
+      "pairs": 12,
+      "p_value_gamma_1": 0.006103515625,
+      "max_gamma_significant_05": 1.8,
+      "selected": {
+        "1.0": 0.006103515625,
+        "1.25": 0.014805960725999759,
+        "1.5": 0.027975684095999997,
+        "1.75": 0.04514409671665901,
+        "2.0": 0.06551244634870097,
+        "2.5": 0.11246357382769548,
+        "3.0": 0.1630745530128479
+      }
+    }
+  ]
+}
